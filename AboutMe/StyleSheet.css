@@ -1,0 +1,45 @@
+﻿body {
+    background-color:azure;
+}
+img {
+    width: 250px;
+    margin: 0 10px;
+    border-radius: 50px;
+}
+img.second {
+
+}
+
+h1 {
+    font-family:fantasy;
+    text-align:center;
+    margin-right:15%;
+    font-size:50px;
+}
+div {
+    
+    /*width: 300px;*/
+}
+div.one {
+        float: left;
+        position: relative;
+        margin-left:15px;
+    }
+div.two {
+        float: right;
+        margin-right:15px;
+    }
+div.mine{
+    width:1550px;
+    height:900px;
+}
+    div.info {
+        background: aliceblue;
+        border: #000000 2px solid;
+        padding: 5px;
+        margin: 10px;
+        width: 40%;
+        height: 25%;
+        margin-left: 25%;
+        text-align: justify;
+    }

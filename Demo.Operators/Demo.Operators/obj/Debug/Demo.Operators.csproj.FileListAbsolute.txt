@@ -1,0 +1,14 @@
+C:\Users\wolfm\source\repos\Demo.Operators\Demo.Operators\bin\Debug\Demo.Operators.exe.config
+C:\Users\wolfm\source\repos\Demo.Operators\Demo.Operators\bin\Debug\Demo.Operators.exe
+C:\Users\wolfm\source\repos\Demo.Operators\Demo.Operators\bin\Debug\Demo.Operators.pdb
+C:\Users\wolfm\source\repos\Demo.Operators\Demo.Operators\obj\Debug\Demo.Operators.csprojAssemblyReference.cache
+C:\Users\wolfm\source\repos\Demo.Operators\Demo.Operators\obj\Debug\Demo.Operators.csproj.CoreCompileInputs.cache
+C:\Users\wolfm\source\repos\Demo.Operators\Demo.Operators\obj\Debug\Demo.Operators.exe
+C:\Users\wolfm\source\repos\Demo.Operators\Demo.Operators\obj\Debug\Demo.Operators.pdb
+C:\Users\wolfm\Desktop\GitHub\Demo.Operators\Demo.Operators\obj\Debug\Demo.Operators.csprojAssemblyReference.cache
+C:\Users\wolfm\Desktop\GitHub\Demo.Operators\Demo.Operators\obj\Debug\Demo.Operators.csproj.CoreCompileInputs.cache
+C:\Users\wolfm\Desktop\GitHub\Demo.Operators\Demo.Operators\obj\Debug\Demo.Operators.exe
+C:\Users\wolfm\Desktop\GitHub\Demo.Operators\Demo.Operators\obj\Debug\Demo.Operators.pdb
+C:\Users\wolfm\Desktop\GitHub\Demo.Operators\Demo.Operators\bin\Debug\Demo.Operators.exe.config
+C:\Users\wolfm\Desktop\GitHub\Demo.Operators\Demo.Operators\bin\Debug\Demo.Operators.exe
+C:\Users\wolfm\Desktop\GitHub\Demo.Operators\Demo.Operators\bin\Debug\Demo.Operators.pdb
